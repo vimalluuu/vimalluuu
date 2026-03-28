@@ -176,55 +176,6 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 
 ---
 
-## `> cat snake.log`
-
-<div align="center">
-
-> ⚙️ **Setup required:** Create `.github/workflows/snake.yml` in this repo — see instructions below. Once the Action runs, the animation will appear here automatically.
-
-<img src="https://raw.githubusercontent.com/vimalluuu/vimalluuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
-<details>
-<summary>🐍 Click to see snake workflow setup</summary>
-
-Create this file at `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vimalluuu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the Action runs once (trigger it manually via Actions tab), the snake will appear automatically.
-
-</details>
-
-<br/>
-
----
-
 ## `> cat contact.json`
 
 ```json
