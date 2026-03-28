@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->
+# <!-- PROFILE HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2CB&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Vimal;Full+Stack+Developer+💻;XR+and+AI+Innovator+🧠;Building+Reality+Through+Technology+🌎" alt="Typing Animation">
 </div>
@@ -6,15 +6,16 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/vimalluuu/vimalluuu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%">
 </div>
 
 ---
 
 ## 📊 My Analytics Summary
+
 <div align="center">
   <a href="https://profile-summary-for-github.onrender.com/user/vimalluuu" target="_blank">
-    <img src="https://raw.githubusercontent.com/vimalluuu/profile-summary-for-github/main/github-summary.png" width="900" alt="Vimal Raj GitHub Summary">
+    <img src="https://profile-summary-for-github.onrender.com/user/vimalluuu" width="900" alt="Vimal Raj GitHub Summary">
   </a>
   <p align="center">
     <i>Click the image above to see my <b>interactive</b> GitHub analytics dashboard! 🚀</i>
@@ -25,9 +26,9 @@
 
 ## 🧩 About Me
 
-💡 *Innovator passionate about AI, XR, and intelligent systems.*  
-🎯 Currently working on cutting-edge projects in **Virtual Reality**, **AI Agents**, and **Embedded Systems**.  
-💬 Ask me about **Unreal Engine**, **Python**, and **AI frameworks**.  
+💡 *Innovator passionate about AI, XR, and intelligent systems.*
+🎯 Currently working on cutting-edge projects in **Virtual Reality**, **AI Agents**, and **Embedded Systems**.
+💬 Ask me about **Unreal Engine**, **Python**, and **AI frameworks**.
 🌱 Always learning, experimenting, and pushing boundaries.
 
 ---
@@ -36,7 +37,7 @@
 
 <div align="center">
 
-### 💬 Languages & Frameworks  
+### 💬 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,7 +48,7 @@
 
 ---
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
@@ -56,7 +57,7 @@
 
 ---
 
-### 🛠️ Development & Design  
+### 🛠️ Development & Design
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,7 +82,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vimalluuu&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=vimalluuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalluuu&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
@@ -90,7 +91,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimallu/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vimalluuu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://vimalportfoliowebsite.netlify.app/)
@@ -101,11 +102,11 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalluuu&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
 </div>
 
 ---
 
 <div align="center">
-  ⭐ *"Building reality through imagination and technology."*  
+  ⭐ <i>"Building reality through imagination and technology."</i>
 </div>
