@@ -11,6 +11,18 @@
 
 ---
 
+## 📊 My Analytics Summary
+<div align="center">
+  <a href="https://profile-summary-for-github.onrender.com/user/vimalluuu" target="_blank">
+    <img src="https://raw.githubusercontent.com/vimalluuu/profile-summary-for-github/main/github-summary.png" width="900" alt="Vimal Raj GitHub Summary">
+  </a>
+  <p align="center">
+    <i>Click the image above to see my <b>interactive</b> GitHub analytics dashboard! 🚀</i>
+  </p>
+</div>
+
+---
+
 ## 🧩 About Me
 
 💡 *Innovator passionate about AI, XR, and intelligent systems.*  
@@ -67,10 +79,10 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vimal&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vimal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vimalluuu&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalluuu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalluuu&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ---
