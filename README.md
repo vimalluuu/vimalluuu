@@ -13,15 +13,15 @@
   ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+XR+Engineer;Building+Intelligent+Systems+%26+Virtual+Worlds;AI+%7C+Unreal+Engine+%7C+Embedded+Systems;From+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3+to+the+Digital+Frontier" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&height=45&lines=Full+Stack+Developer+%7C+XR+Engineer+%7C+AI+Builder;Crafting+Intelligent+Systems+%26+Virtual+Worlds;Python+%7C+Unreal+Engine+%7C+AI+Frameworks;From+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+Building+the+Future" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vimalluuu&color=00FFD1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/vimalluuu)
-&nbsp;&nbsp;
+&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/vimalluuu?color=00FFD1&style=flat-square&label=FOLLOWERS)](https://github.com/vimalluuu)
-&nbsp;&nbsp;
-![Wave](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00FFD1?style=flat-square)
+&nbsp;
+![Open](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00FFD1?style=flat-square)
 
 </div>
 
@@ -51,17 +51,18 @@ status      : Always shipping 🚀
 <tr>
 <td width="55%">
 
-### 🧠 What I Do
+### 🧠 What I Build
 
 I sit at the intersection of **software engineering**, **spatial computing**, and **artificial intelligence** — building systems that blur the line between the physical and digital.
 
-- 🥽 Crafting immersive **XR experiences** in Unreal Engine
-- 🤖 Designing **AI agents** and intelligent pipelines  
+- 🥽 Crafting immersive **XR experiences** in Unreal Engine 5
+- 🤖 Designing **AI agents** and intelligent pipelines
 - ⚡ Building **full-stack apps** from database to deployment
-- 🛰️ Working with **embedded systems** and real-world sensors
+- 🛰️ Working with **embedded systems** and IoT sensors
 - 🌿 Exploring **blockchain** for supply chain traceability
 
 ### 💬 Ask Me About
+
 `Unreal Engine` `Python` `AI Frameworks` `WebXR` `LangChain`
 
 </td>
@@ -69,16 +70,16 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 
 ```
    ┌─────────────────────────┐
-   │   CURRENT STACK         │
+   │     CURRENT STACK       │
    │                         │
    │  🧠  AI / LLM Layer     │
-   │  ─────────────────────  │
+   │  ───────────────────    │
    │  ⚛️   React / Next.js   │
-   │  ─────────────────────  │
+   │  ───────────────────    │
    │  🐍  Python / FastAPI   │
-   │  ─────────────────────  │
+   │  ───────────────────    │
    │  🐘  PostgreSQL / Supa  │
-   │  ─────────────────────  │
+   │  ───────────────────    │
    │  🎮  Unreal Engine 5    │
    └─────────────────────────┘
 ```
@@ -97,13 +98,13 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 
 ### ◈ Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,html,css&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,html,css&theme=dark&perline=8" alt="Languages" />
 
 <br/><br/>
 
 ### ◈ Tools, Platforms & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,firebase,supabase,postgres,mongodb,git,figma,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,firebase,supabase,postgres,mongodb,git,figma,vscode&theme=dark&perline=8" alt="Tools" />
 
 <br/><br/>
 
@@ -127,11 +128,11 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 <div align="center">
 
 | &nbsp; | Project | Stack | What It Does |
-|--------|---------|-------|--------------|
-| 🪴 | **Herb Traceability** | Blockchain · Web3 · React | End-to-end Ayurvedic supply chain authenticity system using blockchain for tamper-proof herb provenance tracking |
-| 🧠 | **Human Scream Detection** | Python · ML · DSP | Real-time emergency audio detection system using signal analysis and ML — designed for public safety applications |
-| ❄️ | **EWSGLOB** | Python · IoT · Predictive ML | Early Warning System for Glacier Lake Outburst Floods — predictive monitoring model for disaster prevention |
-| ✋ | **Sign Language Translator** | OpenCV · MediaPipe · Python | Real-time hand gesture recognition system making communication accessible for the hearing-impaired |
+|:------:|---------|-------|--------------|
+| 🪴 | **Herb Traceability** | Blockchain · Web3 · React | End-to-end Ayurvedic supply chain authenticity using blockchain for tamper-proof herb provenance |
+| 🧠 | **Human Scream Detection** | Python · ML · DSP | Real-time emergency audio detection using signal analysis — built for public safety |
+| ❄️ | **EWSGLOB** | Python · IoT · Predictive ML | Early Warning System for Glacier Lake Outburst Floods — predictive disaster monitoring |
+| ✋ | **Sign Language Translator** | OpenCV · MediaPipe · Python | Real-time hand gesture recognition making communication accessible for the hearing-impaired |
 
 </div>
 
@@ -143,12 +144,21 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vimalluuu&theme=dark&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" width="49%" alt="Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=vimalluuu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats"/>
+<a href="https://github.com/vimalluuu">
+  <img height="180em" src="https://streak-stats.demolab.com?user=vimalluuu&theme=dark&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" alt="Streak Stats"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalluuu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&langs_count=8" width="50%" alt="Top Languages"/>
+<a href="https://github.com/vimalluuu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalluuu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/vimalluuu">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalluuu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -159,7 +169,7 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 ## `> git log --graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalluuu&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD1&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalluuu&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&hide_border=true&custom_title=Vimal%20Raj's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -169,8 +179,47 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 ## `> cat snake.log`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vimalluuu/vimalluuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+> ⚙️ **Setup required:** Create `.github/workflows/snake.yml` in this repo — see instructions below. Once the Action runs, the animation will appear here automatically.
+
+<img src="https://raw.githubusercontent.com/vimalluuu/vimalluuu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 </div>
+
+<details>
+<summary>🐍 Click to see snake workflow setup</summary>
+
+Create this file at `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vimalluuu
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the Action runs once (trigger it manually via Actions tab), the snake will appear automatically.
+
+</details>
 
 <br/>
 
@@ -213,18 +262,6 @@ I sit at the intersection of **software engineering**, **spatial computing**, an
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=80&section=footer&fontColor=0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- 🐍 SNAKE WORKFLOW — create this file:      -->
-<!-- .github/workflows/snake.yml                -->
-<!--                                            -->
-<!-- on: schedule: - cron: "0 0 * * *"          -->
-<!-- uses: Platane/snk@v3                       -->
-<!-- outputs: dist/github-contribution-grid-    -->
-<!--          snake-dark.svg?palette=github-dark-->
-<!-- then: crazy-max/ghaction-github-pages@v3   -->
-<!-- target_branch: output                      -->
-<!-- ═══════════════════════════════════════════ -->
