@@ -113,9 +113,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vimallu/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?\&style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Vimalluuu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?\&style=for-the-badge\&logo=firefox\&logoColor=white)](https://vimalportfoliowebsite.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vimallu/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Vimalluuu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=white)](https://vimalportfoliowebsite.netlify.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vimallu.personal@gmail.com)
 
 </div>
